@@ -10,6 +10,7 @@
       ** zeroCDN - API-Version v0.3 **
 	  ** exclusively made for GVMPC **
       **    made by zeroday#1337    **
+          **    cracked by Utku#7318    **
       
  */
 
