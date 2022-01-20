@@ -16,7 +16,7 @@ zeroCDN is a powerful Layer7 Protection which is written in PHP.
 Put the **fp.php** into the root of your directory and include it in your main core/index via:
 
 ```php
-require_once 'fp.php';
+require_once 'zeroCDN-Decrypted.php';
 ```
 After that you configure Cloudflare for your Webserver and set the Riskmode to "Medium". (Optional)
 Using Cloudflare you can also use their invisible JS-Detection.
