@@ -6,6 +6,7 @@ zeroCDN Decrypted version.
 ## Credits
 Blackjack - Discord: Utku#7318
 
+## Features
 zeroCDN is a powerful Layer7 Protection which is written in PHP.
 
 **zero** detects all kind of harmful HTTP Traffic and blocks them accordingly. It can detect almost every single Bypass-Method using simple Methods that check for Parameters like UA, IP & ASN.
