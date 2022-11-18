@@ -4,7 +4,7 @@ zeroCDN Decrypted version.
 ![alt text](https://imgur.com/AraCZ0M.png)
 
 ## Credits
-Blackjack - Discord: Utku#7318
+Blackjack - Discord: Utku#1337
 
 ## etc
 zeroCDN is a powerful Layer7 Protection which is written in PHP.
